@@ -1,0 +1,13 @@
+MicroServicios
+
+*************************
+1.Recibir y Atender peticiones
+2.Codificar logica de negocio
+3.Conectar a BD
+4.Enviar respuestas
+
+*************************
+Crear Apis con EXPRESS
+
+*************************
+Gestores de dependencias
